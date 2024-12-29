@@ -367,7 +367,7 @@
         governance: "https://commonwealth.im/stargatetoken/",
         snapshot: "https://snapshot.org/#/stgdao.eth",
         telegram: "https://t.me/joinchat/LEM0ELklmO1kODdh",
-        twitter: "https://twitter.com/StargateFinance",
+        twitter: "https://twitter.com/TraixAI",
         faq: "https://stargateprotocol.gitbook.io/stargate/v/v2-user-docs/faq",
         mediaKit:
           "https://publicdocs.notion.site/publicdocs/Stargate-Media-Kit-7d6dc6135be646d6a1d150270ecefc45",
